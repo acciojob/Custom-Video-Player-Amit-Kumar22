@@ -1,7 +1,7 @@
 // Get references to elements
 const video = document.getElementById("player__video viewer");
 const playPauseButton = document.getElementById("player__button toggle");
-const progress = document.getElementById("progress__filled");
+const progress = document.querySelector(".progress__filled");
 const volumeSlider = document.getElementById("player__slider");
 const speedSlider = document.getElementById("speed");
 const skipBackwardButton = document.getElementById("skip-backward");

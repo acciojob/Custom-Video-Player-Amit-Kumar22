@@ -97,7 +97,7 @@ html {
     cursor: ew-resize;
   }
   
-  #progress__filled {
+  .progress__filled {
     width: 50%;
     background: #ffc600;
     flex: 0;
